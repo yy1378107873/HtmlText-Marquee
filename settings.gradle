@@ -1,0 +1,2 @@
+include ':app', ':htmltextlibrary', ':scrolltextlibrary'
+rootProject.name='HtmlText-Marquee'
