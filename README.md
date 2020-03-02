@@ -1,0 +1,2 @@
+# HtmlText-Marquee
+解决textview无法应用html标签中size的问题，自定义跑马灯无需获取焦点单纯实现marquee效果
